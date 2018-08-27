@@ -22,3 +22,5 @@ $ npm run build
 - React
 - Webpack & Babel
 - Moment.js
+
+![Calendar](https://i.imgur.com/yJFEUzy.png)

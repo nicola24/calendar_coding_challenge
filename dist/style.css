@@ -1,8 +1,3 @@
-* {
-  background-color: #343434;
-  color: lightgrey;
-}
-
 .grid-container {
   display: grid;
   grid-template-columns: 80px 80px 80px 80px 80px 80px 80px;
