@@ -1,0 +1,27 @@
+* {
+  background-color: #343434;
+  color: lightgrey;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 80px 80px 80px 80px 80px 80px 80px;
+  grid-template-rows: 80px 80px 80px 80px 80px;
+}
+
+.grid-item {
+  border: 1px solid lightgrey;
+  text-align: center;
+}
+
+.grid-item-red {
+  border: 4px solid red;
+  text-align: center;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: green;
+  border-radius: 50%;
+}

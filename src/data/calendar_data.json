@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "month": {
+      "str": "August",
+      "nbr": "2018-08"
+    },
+    "days": {
+      "1": true,
+      "14": true,
+      "25": true
+    }
+  },
+  {
+    "id": 2,
+    "month": {
+      "str": "September",
+      "nbr": "2018-09"
+    },
+    "days": {
+      "5": true,
+      "6": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "23": true,
+      "27": true,
+      "29": true,
+      "20": true
+    }
+  },
+  {
+    "id": 3,
+    "month": {
+      "str": "November",
+      "nbr": "2018-10"
+    },
+    "days": {
+      "2": true,
+      "10": true,
+      "15": true,
+      "17": true,
+      "23": true,
+      "26": true
+    }
+  }
+]
